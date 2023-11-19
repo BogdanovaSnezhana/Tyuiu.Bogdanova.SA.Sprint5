@@ -12,6 +12,7 @@ namespace Tyuiu.Bogdanova.SA.Sprint5.Task0.V16
         static void Main(string[] args)
         {
             DataService ds = new DataService();
+            Console.Title = "Спринт #5 | Выполнила: Богданова С.А. | ИСПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Обработка файлов                                                  *");
